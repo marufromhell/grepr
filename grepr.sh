@@ -1,5 +1,9 @@
 #!/bin/bash
 
+
+# THIS FILE IS LICENSED UNCER THE GPLv3
+# THIS REPO IS A EXTENTION OF GHSCRAPER
+
 # Check if the correct number of arguments is provided
 if [ "$#" -lt 2 ]; then
     echo "Usage: $0 <directory> <dictionary_file1> [<dictionary_file2> ...]"
